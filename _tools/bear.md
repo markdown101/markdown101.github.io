@@ -1,7 +1,7 @@
 ---
 title: 熊掌记
-category: notes
-description: "熊掌记 is a Markdown notes application for macOS and iOS devices."
+category: 笔记
+description: "熊掌记是一款适用于 macOS 和 iOS 设备的 Markdown 笔记软件。"
 icon: bear.png
 website: https://bear.app
 syntax:
@@ -74,41 +74,41 @@ see-also:
     link: https://bear.app/faq/Markup%20:%20Markdown/Markdown%20compatibility%20mode/
 ---
 
-[Bear](https://bear.app) is a macOS and iOS application designed for one thing: note taking. It's like [Evernote](https://evernote.com/), but without the bloat.
+[熊掌记](https://bear.app) 是一款 macOS 和 iOS 应用程序，专为一件事而设计：记笔记。 它就像 Evernote，但没有臃肿。它就像 [印象笔记](https://evernote.com/)，但没有臃肿。
 
-There aren't a lot of whizbang features in Bear. Instead, Bear consistently delivers on all of its promises. Tags, search, and syncing all work flawlessly. The application is intuitive, and that's exactly what you want when you're taking notes.
+Bear 中并没有很多爆款功能。相反，Bear 始终如一地兑现其所有承诺。标签、搜索和同步都可以完美运行。该应用程序非常直观，这正是您做笔记时想要的。
 
-{% include image.html file="/assets/images/tools/bear.png" alt="Markdown in the Bear Markdown app" %}
+{% include image.html file="/assets/images/tools/bear.png" alt="熊掌记中的 Markdown" %}
 
-Bear doesn't automatically enable support Markdown by default, but you can [enable it in the preferences](#enabling-markdown-support). The application has a hybrid live editor and text editor — you can see both the Markdown syntax and the way the formatting changes the text. It takes a while to get used to, but it's useful if you're just getting started with Markdown.
+默认情况下，熊掌记不会自动启用对 Markdown 的支持，但您可以在[首选项](#enabling-markdown-support)中启用它。该应用程序有一个混合的实时编辑器和文本编辑器——您可以看到 Markdown 语法和格式更改文本的方式。需要一段时间才能习惯，但如果您刚刚开始使用 Markdown，它会很有用。
 
-### Enabling Markdown Support
+### 开启 Markdown 支持
 
-To enable Markdown support in Bear, open the Preferences window. On the **General** tab, turn on the setting for **Markdown compatibility mode**.
+要在熊掌记中启用 Markdown 支持，请打开“首选项”窗口。在 **通用选项卡** 上，打开 **arkdown 兼容模式** 的设置。
 
 <div class="alert alert-success">
-  <i class="fas fa-lightbulb"></i> <strong>Tip:</strong> If you're using Bear on more than one device, you'll need to enable the Markdown compatibility mode setting on all of your devices.
+  <i class="fas fa-lightbulb"></i> <strong>提示：</strong> 如果您在多台设备上使用熊掌记，则需要在所有设备上启用 Markdown 兼容模式设置。
 </div>
 
 {% include tool-syntax-table.html %}
 
-### Support for Additional Syntax Elements
+### 支持其他语法
 
-As an added bonus, Bear provides support for several obscure elements.
+作为额外的功能，熊掌记提供了对几个不起眼的元素的支持。
 
 <table class="table table-bordered" style="font-size: 14px">
   <thead class="thead-light">
     <tr>
-      <th>Element</th>
+      <th>元素</th>
       <th>Markdown</th>
-      <th>Rendered Output</th>
+      <th>渲染输出</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>Underline</td>
-      <td><code>~word or phrase~</code></td>
-      <td><ins>word or phrase</ins></td>
+      <td>下划线</td>
+      <td><code>~词组或短语~</code></td>
+      <td><ins>词组或短语e</ins></td>
     </tr>
   </tbody>
 </table>

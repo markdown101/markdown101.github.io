@@ -3,6 +3,7 @@ _site/
 .bundle/
 .git-metadata/
 .jekyll-cache/
+.idea/
 
 # =========================
 # Operating System Files

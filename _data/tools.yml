@@ -2,103 +2,103 @@
 # The fields are:
 
 headings:
-  name: Headings
+  name: 标题
   link: /basic-syntax#headings
 
 paragraphs:
-  name: Paragraphs
+  name: 段落
   link: /basic-syntax/#paragraphs-1
 
 line-breaks:
-  name: Line Breaks
+  name: 换行符
   link: /basic-syntax/#line-breaks
 
 bold:
-  name: Bold
+  name: 粗体
   link: /basic-syntax#bold
 
 italic:
-  name: Italic
+  name: 斜体
   link: /basic-syntax#italic
 
 blockquotes:
-  name: Blockquotes
+  name: 块引用
   link: /basic-syntax#blockquotes-1
 
 ordered-lists:
-  name: Ordered Lists
+  name: 有序列表
   link: /basic-syntax#ordered-lists
 
 unordered-lists:
-  name: Unordered Lists
+  name: 无序列表
   link: /basic-syntax#unordered-lists
 
 code:
-  name: Code
+  name: 代码
   link: /basic-syntax#code
 
 horizontal-rules:
-  name: Horizontal Rules
+  name: 水平规则
   link: /basic-syntax/#horizontal-rules
 
 links:
-  name: Links
+  name: 链接
   link: /basic-syntax/#links
 
 images:
-  name: Images
+  name: 图片
   link: /basic-syntax/#images-1
 
 tables:
-  name: Tables
+  name: 表格
   link: /extended-syntax/#tables
 
 fenced-code-blocks:
-  name: Fenced Code Blocks
+  name: 围栏代码块
   link: /extended-syntax/#fenced-code-blocks
 
 syntax-highlighting:
-  name: Syntax Highlighting
+  name: 语法高亮
   link: /extended-syntax/#syntax-highlighting
 
 footnotes:
-  name: Footnotes
+  name: 脚注
   link: /extended-syntax/#footnotes
 
 heading-ids:
-  name: Heading IDs
+  name: 标题 ID
   link: /extended-syntax/#heading-ids
 
 definition-lists:
-  name: Definition Lists
+  name: 定义列表
   link: /extended-syntax/#definition-lists
 
 strikethrough:
-  name: Strikethrough
+  name: 删除线
   link: /extended-syntax/#strikethrough
 
 task-lists:
-  name: Task Lists
+  name: 任务列表
   link: /extended-syntax/#task-lists
 
 emoji-cp:
-  name: Emoji (copy and paste)
+  name: Emoji (复制和粘贴)
   link: /extended-syntax/#copying-and-pasting-emoji
 
 emoji-sc:
-  name: Emoji (shortcodes)
+  name: Emoji (简码)
   link: /extended-syntax/#using-emoji-shortcodes
 
 highlight:
-  name: Highlight
+  name: 强调
   link: /extended-syntax/#highlight
 
 subscript:
-  name: Subscript
+  name: 下标
   link: /extended-syntax/#subscript
 
 superscript:
-  name: Superscript
+  name: 上标
   link: /extended-syntax/#superscript
 
 auto-url-linking:
