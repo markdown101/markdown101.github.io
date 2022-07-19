@@ -1,6 +1,8 @@
 # Markdown 101
 
-[![Build Status](https://github.com/mattcone/markdown-101/workflows/tests/badge.svg?branch=master)](https://github.com/mattcone/markdown-guide/actions)
+[![Build Status](https://github.com/markdown101/markdown101.github.io/workflows/pages/pages-build-deployment/badge.svg?branch=main)](https://github.com/markdown101/markdown101.github.io/actions/)
+
+https://github.com/mattcone/markdown-101/workflows/tests/badge.svg?branch=master)](https://github.com/mattcone/markdown-guide/actions)
 
 *[Markdown 101](https://www.markdown101.com)* is a comprehensive Markdown reference designed for both novices and experts. It was born out of frustration with existing Markdown references that are incomplete and inadequate.
 
