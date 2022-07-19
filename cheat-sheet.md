@@ -1,46 +1,46 @@
 ---
 layout: default
-title: Markdown Cheat Sheet
-description: A quick reference to the Markdown syntax.
+title: Markdown 速查表
+description: Markdown 语法的快速参考。
 last_modified_at: 2021-12-05
 ---
 
-## Overview
+## 概述
 
-This Markdown cheat sheet provides a quick overview of all the Markdown syntax elements. It can't cover every edge case, so if you need more information about any of these elements, refer to the reference guides for [basic syntax](/basic-syntax) and [extended syntax](/extended-syntax).
+Markdown 速查表提供了所有 Markdown 语法元素的快速概览。它不能涵盖所有边缘情况，因此如果您需要有关任何这些元素的更多信息，请参阅[基础语法](/basic-syntax)和[扩展语法](/extended-syntax)的参考指南。
 
-## Basic Syntax
+## 基础语法
 
-These are the elements outlined in John Gruber's original design document. All Markdown applications support these elements.
+这些是 John Gruber 的原始设计文档中概述的元素。所有 Markdown 应用程序都支持这些元素。
 
 <table class="table table-bordered">
   <thead class="thead-light">
     <tr>
-      <th>Element</th>
-      <th>Markdown Syntax</th>
+      <th>元素</th>
+      <th>Markdown 语法</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><a href="/basic-syntax/#headings">Heading</a></td>
+      <td><a href="/basic-syntax/#headings">标题</a></td>
       <td><code># H1<br>
           ## H2<br>
           ### H3</code></td>
     </tr>
     <tr>
-      <td><a href="/basic-syntax/#bold">Bold</a></td>
+      <td><a href="/basic-syntax/#bold">粗体</a></td>
       <td><code>**bold text**</code></td>
     </tr>
     <tr>
-      <td><a href="/basic-syntax/#italic">Italic</a></td>
+      <td><a href="/basic-syntax/#italic">斜体</a></td>
       <td><code>*italicized text*</code></td>
     </tr>
     <tr>
-      <td><a href="/basic-syntax/#blockquotes-1">Blockquote</a></td>
+      <td><a href="/basic-syntax/#blockquotes-1">块引用</a></td>
       <td><code>> blockquote</code></td>
     </tr>
     <tr>
-      <td><a href="/basic-syntax/#ordered-lists">Ordered List</a></td>
+      <td><a href="/basic-syntax/#ordered-lists">有序列表</a></td>
       <td><code>
         1. First item<br>
         2. Second item<br>
@@ -48,7 +48,7 @@ These are the elements outlined in John Gruber's original design document. All M
       </code></td>
     </tr>
     <tr>
-      <td><a href="/basic-syntax/#unordered-lists">Unordered List</a></td>
+      <td><a href="/basic-syntax/#unordered-lists">无序列表</a></td>
       <td>
         <code>
           - First item<br>
@@ -58,33 +58,33 @@ These are the elements outlined in John Gruber's original design document. All M
       </td>
     </tr>
     <tr>
-      <td><a href="/basic-syntax/#code">Code</a></td>
+      <td><a href="/basic-syntax/#code">代码块</a></td>
       <td><code>`code`</code></td>
     </tr>
     <tr>
-      <td><a href="/basic-syntax/#horizontal-rules">Horizontal Rule</a></td>
+      <td><a href="/basic-syntax/#horizontal-rules">水平分隔线</a></td>
       <td><code>---</code></td>
     </tr>
     <tr>
-      <td><a href="/basic-syntax/#links">Link</a></td>
+      <td><a href="/basic-syntax/#links">链接</a></td>
       <td><code>[title](https://www.example.com)</code></td>
     </tr>
     <tr>
-      <td><a href="/basic-syntax/#images-1">Image</a></td>
+      <td><a href="/basic-syntax/#images-1">图片</a></td>
       <td><code>![alt text](image.jpg)</code></td>
     </tr>
   </tbody>
 </table>
 
-## Extended Syntax
+## 扩展语法
 
-These elements extend the basic syntax by adding additional features. Not all Markdown applications support these elements.
+这些元素通过添加附加功能扩展了基本语法。并非所有 Markdown 应用程序都支持这些元素。
 
 <table class="table table-bordered">
   <thead class="thead-light">
     <tr>
-      <th>Element</th>
-      <th>Markdown Syntax</th>
+      <th>元素</th>
+      <th>Markdown 语法</th>
     </tr>
   </thead>
   <tbody>
@@ -165,6 +165,6 @@ These elements extend the basic syntax by adding additional features. Not all Ma
   </tbody>
 </table>
 
-## Downloads
+## 下载
 
-You can <a href="/assets/markdown-cheat-sheet.md" download="markdown-cheat-sheet.md">download this cheat sheet as a Markdown file</a> for use in your Markdown application.
+您可以下载到<a href="/assets/markdown-cheat-sheet.md" download="markdown-cheat-sheet.md">速查表</a>的 Markdown 文档 ，以便在您的 Markdown 应用程序中使用。

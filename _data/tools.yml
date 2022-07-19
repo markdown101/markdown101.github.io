@@ -34,11 +34,11 @@ unordered-lists:
   link: /basic-syntax#unordered-lists
 
 code:
-  name: 代码
+  name: 代码块
   link: /basic-syntax#code
 
 horizontal-rules:
-  name: 水平规则
+  name: 水平分隔符
   link: /basic-syntax/#horizontal-rules
 
 links:
