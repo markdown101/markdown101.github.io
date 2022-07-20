@@ -1,40 +1,39 @@
 ---
 layout: about
-title: Privacy Policy
-description: "The privacy policy for the Markdown Guide."
+title: 隐私政策
+description: "Markdown 101 的隐私政策。"
 ---
 
-## Overview
+## 概述
 
-We collect as little personal data as possible, and we don't track you. In this policy, you can read how we collect and use your information. It also describes how we use cookies.
+我们会尽可能少地收集个人数据，并且不会跟踪你。在本政策中，你可以阅读我们如何收集和使用你的信息。它还描述了我们如何使用 cookie。
 
-## How we collect and use information
+## 我们如何收集和使用信息
 
-We collect and use information in order to provide you the services of the Markdown Guide. Unless stated otherwise, we do not process or store your IP address or any other personally identifiable information.
+我们收集和使用信息是为了向你提供 Markdown 101 的服务。除非另有说明，否则我们不会处理或存储你的 IP 地址或任何其他个人身份信息。
 
-Here are all the ways in which we collect and use your information:
+以下是我们收集和使用你的信息的所有方式：
 
-- **Serving requests**: Our hosting partner [Netlify](https://www.netlify.com/) collects your IP address. This data is retained for no longer than 30 days.
-- **Analyzing web traffic**: We use a self-hosted instance of [Plausible](https://plausible.io/) to process the pages you request, as well as your IP address. Your IP address is used to estimate your geolocation and will not be stored.
-- **Serving ads**: Our partner [EthicalAds](https://www.ethicalads.io/) processes your IP address to estimate your geolocation in order to serve country specific ads.
-- **Contacting us**: When you [contact us](/contact/), you can provide your name and email address. If you do, they will be collected by [Netlify](https://www.netlify.com/) and sent to us by email, in order for us to reply to you.
+- **分析网络流量**: 处理你请求的页面以及你的 IP 地址。你的 IP 地址用于估计你的地理位置，不会被存储。
+- **投放广告**: 处理你的 IP 地址以估计你的地理位置，以便投放特定国家/地区的广告。
+- **联系我们**: 当你[联系我们](/contact/)时，你可以提供你的姓名和电子邮件地址,以便我们回复你。
 
 ## Cookies
 
-We don't use cookies on the Markdown Guide.
+我们不在 Markdown 101 中使用 cookie。
 
-## Safeguards
+## 保障措施
 
-The Markdown Guide follows generally accepted industry standards and maintains reasonable safeguards to attempt to ensure the security, integrity, and privacy of the information in the Markdown Guide's possession.
+Markdown 101 遵循公认的行业标准，并保持合理的保护措施，以试图确保 Markdown 101 拥有的信息的安全性、完整性和隐私性。
 
-## What choices do I have?
+## 我有什么选择？
 
-As you can tell by the list above, we collect very limited information. Of this data, the personally identifiable information is necessary in order to provide the services of the Markdown Guide. You can choose not to use the Markdown Guide if you do not want us to use this information.
+从上面的列表可以看出，我们收集的信息非常有限。在这些数据中，个人身份信息是提供降价指南服务所必需的。如果你不希望我们使用此信息，你可以选择不使用 Markdown 101。
 
-## Changes and questions
+## 变化和问题
 
-We may revise this policy from time to time. The changes will not be retroactive, and the most current version of this policy will govern our relationship with you. By continuing to access or use the Markdown Guide after those revisions become effective, you agree to the revised policy.
+我们可能会不时修订本政策。这些更改不会追溯，并且本政策的最新版本将管理我们与你的关系。在这些修订生效后继续访问或使用 Markdown 101，即表示你同意修订后的政策。
 
-If you have any questions or feedback regarding this privacy policy, you may [contact us](/contact/).
+如果你对本隐私政策有任何疑问或反馈，你可以[联系我们](/contact/)。
 
-Last updated: 2022-03-19
+最后更新：2022-03-19
