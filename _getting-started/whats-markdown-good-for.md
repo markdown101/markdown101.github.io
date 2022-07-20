@@ -14,10 +14,6 @@ Markdown 是为 Web 设计的，因此有很多专门用于创建网站内容的
 
 如果您熟悉 HTML、CSS 和版本控制，请查看 [Jekyll](/tools/jekyll/) ，这是一个流行的静态站点生成器，它可以获取 Markdown 文件并构建 HTML 网站。这种方法的一个优点是 [GitHub Pages](/tools/github-pages/) 为 Jekyll 生成的网站提供免费托管。如果 Jekyll 不是您的最爱，还有 [众多其他可用的静态站点生成器](https://jamstack.org/generators/)可供选择。
 
-<div class="alert alert-info">
-  <i class="fas fa-info-circle"></i> <strong>注意：</strong>我使用 Jekyll 创建了 <i>了Markdown 101</i> 。你可以在<a href="https://github.com/mattcone/markdown-guide">GitHub</a> 上查看源码。
-</div>
-
 如果您想使用内容管理系统 (CMS) 为您的网站提供支持，请查看 [Ghost](/tools/ghost/) 。这是一个免费的开源博客平台，带有一个不错的 Markdown 编辑器。如果您是 WordPress 用户，您会发现 WordPress.com 上托管的网站[支持 Markdown](https://wordpress.com/support/wordpress-editor/blocks/markdown-block/) 。自建的 WordPress 站点可以使用 [Jetpack 插件](https://jetpack.com/support/markdown/)。
 
 ### 文件
