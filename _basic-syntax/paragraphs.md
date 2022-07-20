@@ -48,7 +48,7 @@ examples:
 除非[段落在列表中](/basic-syntax/#paragraphs)，否则不要使用空格或制表符缩进段落。
 
 <div class="alert alert-info">
-  <i class="fas fa-info-circle"></i> <strong>注意：</strong> 如果您需要在输出中缩进段落，请参阅如何 <a href="/hacks/#indent-tab">缩进（制表符）</a>部分。
+  <i class="fas fa-info-circle"></i> <strong>注意：</strong> 如果你需要在输出中缩进段落，请参阅如何 <a href="/hacks/#indent-tab">缩进（制表符）</a>部分。
 </div>
 
 <table class="table table-bordered">

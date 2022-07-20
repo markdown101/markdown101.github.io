@@ -4,7 +4,7 @@ syntax-id: emphasis
 api: "no"
 ---
 
-您可以通过将文本设置为粗体或斜体来增加重点。
+你可以通过将文本设置为粗体或斜体来增加重点。
 
 {% include syntax.html type="basic-sub" syntax-id="bold" %}
 
@@ -52,7 +52,7 @@ api: "no"
 </table>
 
 <div class="alert alert-info">
-  <i class="fas fa-info-circle"></i> <strong>注意：</strong><code>em</code> 和 <code>strong</code> 标签的顺序可能会根据您使用的 Markdown 处理器而颠倒。
+  <i class="fas fa-info-circle"></i> <strong>注意：</strong><code>em</code> 和 <code>strong</code> 标签的顺序可能会根据你使用的 Markdown 处理器而颠倒。
 </div>
 
 #### 粗体和斜体的最佳实践

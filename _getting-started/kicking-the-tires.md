@@ -6,4 +6,4 @@
 
 {% include image.html file="/assets/images/dillinger.png" alt="Dillinger Markdown 编辑器" lazy="yes" %}
 
-阅读本入门指南时，您可能希望保持 Dillinger 网站保持打开状态。这样你就可以在学习时尝试语法。熟悉 Markdown 后，您可能希望使用可以安装在台式计算机或移动设备上的 Markdown 应用程序。
+阅读本入门指南时，你可能希望保持 Dillinger 网站保持打开状态。这样你就可以在学习时尝试语法。熟悉 Markdown 后，你可能希望使用可以安装在台式计算机或移动设备上的 Markdown 应用程序。

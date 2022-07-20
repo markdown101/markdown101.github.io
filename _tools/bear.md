@@ -76,18 +76,18 @@ see-also:
 
 [熊掌记](https://bear.app) 是一款 macOS 和 iOS 应用程序，专为一件事而设计：记笔记。 它就像 Evernote，但没有臃肿。它就像 [印象笔记](https://evernote.com/)，但没有臃肿。
 
-Bear 中并没有很多爆款功能。相反，Bear 始终如一地兑现其所有承诺。标签、搜索和同步都可以完美运行。该应用程序非常直观，这正是您做笔记时想要的。
+Bear 中并没有很多爆款功能。相反，Bear 始终如一地兑现其所有承诺。标签、搜索和同步都可以完美运行。该应用程序非常直观，这正是你做笔记时想要的。
 
 {% include image.html file="/assets/images/tools/bear.png" alt="熊掌记中的 Markdown" %}
 
-默认情况下，熊掌记不会自动启用对 Markdown 的支持，但您可以在[首选项](#enabling-markdown-support)中启用它。该应用程序有一个混合的实时编辑器和文本编辑器——您可以看到 Markdown 语法和格式更改文本的方式。需要一段时间才能习惯，但如果您刚刚开始使用 Markdown，它会很有用。
+默认情况下，熊掌记不会自动启用对 Markdown 的支持，但你可以在[首选项](#enabling-markdown-support)中启用它。该应用程序有一个混合的实时编辑器和文本编辑器——你可以看到 Markdown 语法和格式更改文本的方式。需要一段时间才能习惯，但如果你刚刚开始使用 Markdown，它会很有用。
 
 ### 开启 Markdown 支持
 
 要在熊掌记中启用 Markdown 支持，请打开“首选项”窗口。在 **通用选项卡** 上，打开 **arkdown 兼容模式** 的设置。
 
 <div class="alert alert-success">
-  <i class="fas fa-lightbulb"></i> <strong>提示：</strong> 如果您在多台设备上使用熊掌记，则需要在所有设备上启用 Markdown 兼容模式设置。
+  <i class="fas fa-lightbulb"></i> <strong>提示：</strong> 如果你在多台设备上使用熊掌记，则需要在所有设备上启用 Markdown 兼容模式设置。
 </div>
 
 {% include tool-syntax-table.html %}

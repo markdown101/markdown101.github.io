@@ -10,12 +10,12 @@ last_modified_at: 2022-04-15
 大多数使用 Markdown 的人会发现[基础语法](/basic-syntax/)和[扩展语法](/extended-syntax/)可以满足他们的需求。 但很有可能，如果你使用 Markdown 的时间足够长，你会不可避免地发现它不支持你需要的东西。此页面提供了解决 Markdown 限制的提示和技巧。
 
 <div class="alert alert-success">
-  <i class="fas fa-lightbulb"></i> <strong>提示：</strong> 不能保证这些技巧在您的 Markdown 应用程序中有效。如果你需要经常使用这些技巧，你应该考虑使用 Markdown 以外的东西来编写。 
+  <i class="fas fa-lightbulb"></i> <strong>提示：</strong> 不能保证这些技巧在你的 Markdown 应用程序中有效。如果你需要经常使用这些技巧，你应该考虑使用 Markdown 以外的东西来编写。 
 </div>
 
 ## 下划线
 
-划线文本不是您通常在网络写作中看到的，可能是因为带下划线的文本几乎是链接的同义词。但是，如果您正在撰写论文或报告，您可能需要能够在单词和短语下划线。 [熊掌记](/tools/bear/) 和 [Simplenote](/tools/simplenote/) 等一些应用程序提供了对文本下划线的支持，但 Markdown 本身并不支持下划线。 如果您的 Markdown 处理器支持 [HTML](/basic-syntax/#html), ，您可以使用 `<ins>` HTML 标签为文档中的文本添加下划线。
+划线文本不是你通常在网络写作中看到的，可能是因为带下划线的文本几乎是链接的同义词。但是，如果你正在撰写论文或报告，你可能需要能够在单词和短语下划线。 [熊掌记](/tools/bear/) 和 [Simplenote](/tools/simplenote/) 等一些应用程序提供了对文本下划线的支持，但 Markdown 本身并不支持下划线。 如果你的 Markdown 处理器支持 [HTML](/basic-syntax/#html), ，你可以使用 `<ins>` HTML 标签为文档中的文本添加下划线。
 
 ```html
 Some of these words <ins>will be underlined</ins>.

@@ -77,7 +77,7 @@ additional-examples:
 
 ### 带有其他元素的块引用
 
-块引用可以包含其他 Markdown 格式的元素。并非所有元素都可以使用——您需要尝试看看哪些元素有效。
+块引用可以包含其他 Markdown 格式的元素。并非所有元素都可以使用——你需要尝试看看哪些元素有效。
 
 ```
 > #### The quarterly results look great!
