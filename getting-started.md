@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 入门指南
-description: Markdown 的概述、它的工作原理以及你可以用它做什么。
+description: Markdown 的概述、原理以及使用场景。
 last_modified_at: 2022-02-06
 ---
 
