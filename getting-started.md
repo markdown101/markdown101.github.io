@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Getting Started
-description: An overview of Markdown, how it works, and what you can do with it.
+title: 入门指南
+description: Markdown 的概述、它的工作原理以及你可以用它做什么。
 last_modified_at: 2022-02-06
 ---
 
