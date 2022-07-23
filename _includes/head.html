@@ -51,9 +51,7 @@
     gtag('config', 'G-C02BQ9KR9V');
   </script>
   </script>
-  {% endif %}
-
-  {% if jekyll.HOST == "github" && jekyll.environment == "production" %}
+  {% elsif jekyll.HOST == "github" && jekyll.environment == "production" %}
   <!--  github  -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-HJJC69D2LG"></script>
   <script>
@@ -64,6 +62,8 @@
     gtag('config', 'G-HJJC69D2LG');
   </script>
   </script>
+  {% else %}
+  <!-- none -->
   {% endif %}
 
 </head>
