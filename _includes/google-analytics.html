@@ -1,0 +1,13 @@
+{% if site.host == "cloudflare" %}
+{% assign host = "G-C02BQ9KR9V" %}
+{% elsif site.host == "github"%}
+{% assign host = "G-HJJC69D2LG" %}
+{% endif %}
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ host }}"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', '{{ host }}');
+</script>
+</script>
