@@ -1,6 +1,6 @@
 [build]
   publish = "_site/"
-  command = "JEKYLL_ENV=production jekyll build"
+  command = "JEKYLL_ENV=production jekyll build --config _config.netlify.yml"
 
 [build.processing]
   skip_processing = false
