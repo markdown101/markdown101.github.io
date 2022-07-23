@@ -40,6 +40,9 @@
   <script defer src="/assets/javascript/solid.min.js"></script>
   <script defer src="/assets/javascript/fontawesome.min.js"></script>
 
+
+
+  {% if jekyll.HOST == "github" %}
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-HJJC69D2LG"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
@@ -48,5 +51,16 @@
 
     gtag('config', 'G-HJJC69D2LG');
   </script>
+  </script>
+  {% else %}
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-C02BQ9KR9V"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-C02BQ9KR9V');
+  {% endif %}
+
 
 </head>

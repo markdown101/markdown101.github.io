@@ -2,7 +2,7 @@ title: "Markdown 101"
 url: https://www.markdown101.com # site url
 baseurl: "" # apply repo name if use it under gh-pages branch
 
-repo: https://github.com/billowstudio/markdown101
+repo: https://github.com/markdown101/markdown101
 comments: false
 
 plugins:
