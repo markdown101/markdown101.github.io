@@ -2,7 +2,7 @@ title: "Markdown 101"
 url: https://www.markdown101.com # site url
 baseurl: "" # apply repo name if use it under gh-pages branch
 host: "cloudflare"
-host-url: "cloudflare.com"
+host-url: "https://cloudflare.com"
 google-analytics: "G-C02BQ9KR9V"
 
 repo: https://github.com/markdown101/markdown101
