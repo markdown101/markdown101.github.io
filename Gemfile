@@ -6,6 +6,7 @@ group :development do
   gem 'jekyll', '~> 4.2.0'
   gem 'jekyll-sitemap'
   gem 'jekyll-last-modified-at'
+  gem 'rubocop'
 end
 
 group :test do

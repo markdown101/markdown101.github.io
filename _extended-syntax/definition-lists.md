@@ -1,9 +1,6 @@
 ---
 title: Definition Lists
 syntax-id: definition-lists
-syntax-summary: |
-  term
-  : definition
 ---
 
 Some Markdown processors allow you to create *definition lists* of terms and their corresponding definitions. To create a definition list, type the term on the first line. On the next line, type a colon followed by a space and the definition.  
