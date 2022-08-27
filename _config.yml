@@ -4,6 +4,7 @@ baseurl: "" # apply repo name if use it under gh-pages branch
 host-name: "github"
 host-url: "https://github.com"
 google-analytics: "G-HJJC69D2LG"
+google-adsense: "ca-pub-2307827189806681"
 
 repo: "https://github.com/markdown101/markdown101"
 comments: false

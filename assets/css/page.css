@@ -37,7 +37,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .jumbotron {
-  background: #03A7DD;
+  background: #FE9503;
   color: #FFFFFF;
   margin-bottom: 20px;
   border-radius: 0;
@@ -99,14 +99,14 @@ nav[data-toggle='toc'] .nav-link.active,
 nav[data-toggle='toc'] .nav-link.active:focus,
 nav[data-toggle='toc'] .nav-link.active:hover,
 nav[data-toggle='toc'] .nav > li > a:focus {
-  color: #03A7DD;
-  border-left: 1px solid #03A7DD;
+  color: #FE9503;
+  border-left: 1px solid #FE9503;
 }
 nav[data-toggle='toc'] .nav > .active > a,
 nav[data-toggle='toc'] .nav > .active:hover > a,
 nav[data-toggle='toc'] .nav > .active:focus > a {
-  color: #03A7DD;
-  border-left: 2px solid #03A7DD;
+  color: #FE9503;
+  border-left: 2px solid #FE9503;
 }
 
 /* small screens */
