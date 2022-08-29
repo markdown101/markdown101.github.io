@@ -26,7 +26,7 @@ The HTML looks like this:
 </dl>
 ```
 
-The rendered output looks like this:
+The 渲染输出 looks like this:
 
 First Term
 : This is the definition of the first term.

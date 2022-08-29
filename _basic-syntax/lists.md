@@ -1,7 +1,6 @@
 ---
-title: Lists
+title: 列表
 syntax-id: lists
-api: "no"
 ---
 
 You can organize items into ordered and unordered lists.
@@ -29,7 +28,7 @@ To add another element in a list while preserving the continuity of the list, in
 * And here's the third list item.
 ```
 
-The rendered output looks like this:
+The 渲染输出 looks like this:
 
 * This is the first list item.
 * Here's the second list item.
@@ -49,7 +48,7 @@ The rendered output looks like this:
 * And here's the third list item.
 ```
 
-The rendered output looks like this:
+The 渲染输出 looks like this:
 
 * This is the first list item.
 * Here's the second list item.
@@ -74,7 +73,7 @@ The rendered output looks like this:
 3. Update the title to match the name of your website.
 ```
 
-The rendered output looks like this:
+The 渲染输出 looks like this:
 
 1. Open the file.
 2. Find the following code block on line 21:
@@ -99,7 +98,7 @@ The rendered output looks like this:
 3. Close the file.
 ```
 
-The rendered output looks like this:
+The 渲染输出 looks like this:
 
 1. Open the file containing the Linux mascot.
 2. Marvel at its beauty.
@@ -123,7 +122,7 @@ You can nest an unordered list in an ordered list, or vice versa.
 4. Fourth item
 ```
 
-The rendered output looks like this:
+The 渲染输出 looks like this:
 
 1. First item
 2. Second item

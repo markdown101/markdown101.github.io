@@ -11,6 +11,6 @@ Task lists (also referred to as *checklists* and *todo* lists) allow you to crea
 - [ ] Contact the media
 ```
 
-The rendered output looks like this:
+The 渲染输出 looks like this:
 
 <img src="/assets/images/tasklist.png" class="img-fluid" alt="Markdown task list">

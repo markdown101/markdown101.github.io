@@ -1,15 +1,6 @@
 ---
 title: 粗体
 syntax-id: bold
-syntax-summary: "**粗体**"
-description: "要加粗文本，请在单词或短语前后添加两个星号或下划线。为了强调单词的中间部分，请在字母周围添加两个不带空格的星号。"
-examples:
-  - markdown: "我只是喜欢**粗体字**。"
-    html: "我只是喜欢 <strong>粗体字</strong>."
-  - markdown: "我只是喜欢 __粗体字__。"
-    html: "我只是喜欢 <strong>粗体字</strong>。"
-  - markdown: "爱**是**大胆的"
-    html: "爱<strong>是</strong>大胆的"
 ---
 
 要加粗文本，请在单词或短语前后添加两个星号或下划线。为了强调单词的中间部分，请在字母周围添加两个不带空格的星号。

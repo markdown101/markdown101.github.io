@@ -1,7 +1,6 @@
 ---
 title: 强调
 syntax-id: emphasis
-api: "no"
 ---
 
 你可以通过将文本设置为粗体或斜体来增加重点。

@@ -1,13 +1,6 @@
 ---
 title: 段落
 syntax-id: paragraphs
-description: "要创建段落，请使用空行分隔一行或多行文本。"
-examples:
-  - markdown: |
-      我真的很喜欢使用 Markdown。
-
-      我想从现在开始我会用它来格式化我的所有文档。
-    html: "<p>我真的很喜欢使用 Markdown。</p><p>我想从现在开始我会用它来格式化我的所有文档。</p>"
 ---
 
 要创建段落，请使用空行分隔一行或多行文本。

@@ -9,7 +9,7 @@ Many Markdown processors automatically turn URLs into links. That means if you t
 http://www.example.com
 ```
 
-The rendered output looks like this:
+The 渲染输出 looks like this:
 
 [http://www.example.com](http://www.example.com)
 
@@ -21,6 +21,6 @@ If you don't want a URL to be automatically linked, you can remove the link by [
 `http://www.example.com`
 ```
 
-The rendered output looks like this:
+The 渲染输出 looks like this:
 
 `http://www.example.com`

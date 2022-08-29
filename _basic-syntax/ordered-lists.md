@@ -1,38 +1,6 @@
 ---
-title: Ordered Lists
+title: 有序列表
 syntax-id: ordered-lists
-syntax-summary: |
-  1. First item
-  2. Second item
-  3. Third item
-description: "To create an ordered list, add line items with numbers followed by periods. The numbers don't have to be in numerical order, but the list should start with the number one."
-examples:
-  - markdown: |
-      1. First item
-      2. Second item
-      3. Third item
-      4. Fourth item
-    html: <ol><li>First item</li><li>Second item</li><li>Third item</li><li>Fourth item</li></ol>
-  - markdown: |
-      1. First item
-      1. Second item
-      1. Third item
-      1. Fourth item
-    html: <ol><li>First item</li><li>Second item</li><li>Third item</li><li>Fourth item</li></ol>
-  - markdown: |
-      1. First item
-      8. Second item
-      3. Third item
-      5. Fourth item
-    html: <ol><li>First item</li><li>Second item</li><li>Third item</li><li>Fourth item</li></ol>
-  - markdown: |
-      1. First item
-      2. Second item
-      3. Third item
-        1. Indented item
-        2. Indented item
-      4. Fourth item
-    html: <ol><li>First item</li><li>Second item</li><li>Third item<ol><li>Indented item</li><li>Indented item</li></ol></li><li>Fourth item</li></ol>
 ---
 
 To create an ordered list, add line items with numbers followed by periods. The numbers don't have to be in numerical order, but the list should start with the number one.
@@ -42,7 +10,7 @@ To create an ordered list, add line items with numbers followed by periods. The 
     <tr>
       <th>Markdown</th>
       <th>HTML</th>
-      <th>Rendered Output</th>
+      <th>渲染输出</th>
     </tr>
   </thead>
   <tbody>

@@ -1,7 +1,6 @@
 ---
 title: 块引用
 syntax-id: blockquotes
-description: "要创建块引用，请在段落前添加一个 `>` 符号。"
 ---
 
 要创建块引用，请在段落前添加一个 `>` 符号。

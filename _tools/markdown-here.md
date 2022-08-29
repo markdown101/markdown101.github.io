@@ -76,6 +76,6 @@ To use Markdown Here after installing it, start typing Markdown-formatted text i
 
 {% include image.html file="/assets/images/tools/markdown-here.png" alt="Markdown Here in Gmail" width="60" %}
 
-One source of frustration is the inconsistency in rendered output. Since Markdown Here relies on the features provided by whatever rich text editor you happen to be working in, the rendered output varies from website to website. This probably goes without saying, but you should be careful to examine the output before sending your email message or saving your file.
+One source of frustration is the inconsistency in 渲染输出. Since Markdown Here relies on the features provided by whatever rich text editor you happen to be working in, the 渲染输出 varies from website to website. This probably goes without saying, but you should be careful to examine the output before sending your email message or saving your file.
 
 {% include tool-syntax-table.html %}

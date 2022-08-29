@@ -1,12 +1,6 @@
 ---
 title: 换行
 syntax-id: line-breaks
-description: "要换行或创建换行符 (`<br>`), 请以两个或多个空格结束一行，然后按回车键。"
-examples:
-  - markdown: |
-      这是第一行。  
-      这是第二行。
-    html: "<p>这是第一行。  <br>这是第二行。</p>"
 ---
 
 要换行或创建换行符 (`<br>`), 请以两个或多个空格结束一行，然后按回车键。
@@ -16,7 +10,7 @@ examples:
     <tr>
       <th>Markdown</th>
       <th>HTML</th>
-      <th>Rendered Output</th>
+      <th>渲染输出</th>
     </tr>
   </thead>
   <tbody>

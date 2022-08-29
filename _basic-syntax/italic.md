@@ -1,15 +1,6 @@
 ---
 title: 斜体
 syntax-id: italic
-syntax-summary: "*italicized text*"
-description: "要使文本变为斜体，请在单词或短语前后添加一个星号或下划线。为了强调单词中间的斜体，请在字母周围添加一个不带空格的星号。"
-examples:
-  - markdown: "Italicized text is the *cat's meow*."
-    html: "Italicized text is the <em>cat's meow</em>."
-  - markdown: "Italicized text is the _cat's meow_."
-    html: "Italicized text is the <em>cat's meow</em>."
-  - markdown: "A*cat*meow"
-    html: "A<em>cat</em>meow"
 ---
 
 要使文本变为斜体，请在单词或短语前后添加一个星号或下划线。为了强调单词中间的斜体，请在字母周围添加一个不带空格的星号。

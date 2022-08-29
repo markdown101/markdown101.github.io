@@ -9,6 +9,6 @@ You can strikethrough words by putting a horizontal line through the center of t
 ~~The world is flat.~~ We now know that the world is round.
 ```
 
-The rendered output looks like this:
+The 渲染输出 looks like this:
 
 ~~The world is flat.~~ We now know that the world is round.

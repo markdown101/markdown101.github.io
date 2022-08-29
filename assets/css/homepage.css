@@ -73,7 +73,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .icon {
   font-size: 80px;
-  color: rgba(254,149,3,100);
+  color: #FE9503;
   height: 100px;
   margin-bottom: 20px;
 }
@@ -108,4 +108,12 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: -27px;
   color: #99979c;
   background-color: #dbdbdb;
+}
+
+a {
+  color: #FE9503;
+}
+
+a:hover {
+  color: rgba(254, 149, 3, 0.5);
 }

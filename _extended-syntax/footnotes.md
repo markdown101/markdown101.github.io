@@ -23,7 +23,7 @@ Here's a simple footnote,[^1] and here's a longer one.[^bignote]
     Add as many paragraphs as you like.
 ```
 
-The rendered output looks like this:
+The 渲染输出 looks like this:
 
 Here's a simple footnote,[^1] and here's a longer one.[^bignote]
 

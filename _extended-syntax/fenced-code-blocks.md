@@ -15,7 +15,7 @@ The basic Markdown syntax allows you to create [code blocks](/basic-syntax#code-
 ```
 ~~~~~~~~~
 
-The rendered output looks like this:
+The 渲染输出 looks like this:
 
 ```text
 {
@@ -43,7 +43,7 @@ Many Markdown processors support syntax highlighting for fenced code blocks. Thi
 ```
 ~~~~~~~~~
 
-The rendered output looks like this:
+The 渲染输出 looks like this:
 
 ```json
 {

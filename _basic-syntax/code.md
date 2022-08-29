@@ -1,24 +1,6 @@
 ---
-title: Code
+title: 代码
 syntax-id: code
-syntax-summary: "`code`"
-description: "To denote a word or phrase as code, enclose it in backticks (`` ` ``)."
-examples:
-  - markdown: "At the command prompt, type `nano`."
-    html: "At the command prompt, type <code>nano</code>."
-additional-examples:
-  - name: "Escaping Backticks"
-    description: "If the word or phrase you want to denote as code includes one or more backticks, you can escape it by enclosing the word or phrase in double backticks (<code>``</code>)."
-    markdown: "``Use `code` in your Markdown file.``"
-    html: <code>Use `code` in your Markdown file.</code>
-  - name: "Code Blocks"
-    description: "To create code blocks, indent every line of the block by at least four spaces or one tab."
-    markdown: |
-        <html>
-          <head>
-          </head>
-        </html>
-    html: <pre><code><html><head></head></html></code></pre>
 ---
 
 To denote a word or phrase as code, enclose it in backticks (`` ` ``).
@@ -28,7 +10,7 @@ To denote a word or phrase as code, enclose it in backticks (`` ` ``).
     <tr>
       <th>Markdown</th>
       <th>HTML</th>
-      <th>Rendered Output</th>
+      <th>渲染输出</th>
     </tr>
   </thead>
   <tbody>
@@ -49,7 +31,7 @@ If the word or phrase you want to denote as code includes one or more backticks,
     <tr>
       <th>Markdown</th>
       <th>HTML</th>
-      <th>Rendered Output</th>
+      <th>渲染输出</th>
     </tr>
   </thead>
   <tbody>
@@ -61,7 +43,7 @@ If the word or phrase you want to denote as code includes one or more backticks,
   </tbody>
 </table>
 
-### Code Blocks
+### 代码块
 
 To create code blocks, indent every line of the block by at least four spaces or one tab.
 
@@ -72,7 +54,7 @@ To create code blocks, indent every line of the block by at least four spaces or
     </html>
 ```
 
-The rendered output looks like this:
+The 渲染输出 looks like this:
 
 ```text
 <html>

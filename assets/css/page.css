@@ -163,3 +163,11 @@ blockquote {
 code {
   color: #212529;
 }
+
+a {
+  color: #FE9503;
+}
+
+a:hover {
+  color: rgba(254, 149, 3, 0.5);
+}

@@ -24,7 +24,7 @@ You can link to headings with custom IDs in the file by creating a [standard lin
     <tr>
       <th>Markdown</th>
       <th>HTML</th>
-      <th>Rendered Output</th>
+      <th>渲染输出</th>
     </tr>
   </thead>
   <tbody>

@@ -9,7 +9,7 @@ This isn't common, but some Markdown processors allow you to highlight text. The
 I need to highlight these ==very important words==.
 ```
 
-The rendered output looks like this:
+The 渲染输出 looks like this:
 
 I need to highlight these <mark>very important words</mark>.
 

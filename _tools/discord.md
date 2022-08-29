@@ -84,7 +84,7 @@ As an added bonus, Discord provides support for several obscure elements.
     <tr>
       <th>Element</th>
       <th>Markdown</th>
-      <th>Rendered Output</th>
+      <th>渲染输出</th>
     </tr>
   </thead>
   <tbody>

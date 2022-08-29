@@ -9,7 +9,7 @@ This isn't common, but some Markdown processors allow you to use *subscript* to 
 H~2~O
 ```
 
-The rendered output looks like this:
+The 渲染输出 looks like this:
 
 H<sub>2</sub>O
 

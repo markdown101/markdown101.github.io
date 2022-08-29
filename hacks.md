@@ -31,13 +31,13 @@ Tabs and whitespace have a special meaning in Markdown. You can use trailing whi
 
 Your best bet might be to use a Markdown editor that supports indentation. This is common in applications that are more oriented towards desktop publishing. For example, [iA Writer](/tools/ia-writer/) allows you to customize indentation settings for the editor in the application preferences. It also provides template customization options so that you can make the rendered document look the way you expect it to, indentation and all.
 
-Another option, if your Markdown processor supports [HTML](/basic-syntax/#html), is to use the HTML entity for non-breaking space (`&nbsp;`). This should probably be your option of last resort as it can get awkward. Basically, every `&nbsp;` in your Markdown source will be replaced with a space in the rendered output. So if you stick four instances of `&nbsp;` before a paragraph, the paragraph will look like it's indented four spaces.
+Another option, if your Markdown processor supports [HTML](/basic-syntax/#html), is to use the HTML entity for non-breaking space (`&nbsp;`). This should probably be your option of last resort as it can get awkward. Basically, every `&nbsp;` in your Markdown source will be replaced with a space in the 渲染输出. So if you stick four instances of `&nbsp;` before a paragraph, the paragraph will look like it's indented four spaces.
 
 ```html
 &nbsp;&nbsp;&nbsp;&nbsp;This is the first sentence of my indented paragraph.
 ```
 
-The rendered output looks like this:
+The 渲染输出 looks like this:
 
 &nbsp;&nbsp;&nbsp;&nbsp;This is the first sentence of my indented paragraph.
 
@@ -49,7 +49,7 @@ Having the ability to center text is a necessity when writing a paper or a repor
 <center>This text is centered.</center>
 ```
 
-The rendered output looks like this:
+The 渲染输出 looks like this:
 
 <p style="text-align:center">This text is centered.</p>
 
@@ -71,7 +71,7 @@ Markdown doesn't allow you to change the color of text, but if your Markdown pro
 <font color="red">This text is red!</font>
 ```
 
-The rendered output looks like this:
+The 渲染输出 looks like this:
 
 <p style="color:red">This text is red!</p>
 
@@ -87,7 +87,7 @@ If this is supported by your Markdown application, the output looks like this:
 
 ## Comments
 
-Some people need the ability to write sentences in their Markdown files that *will not* appear in the rendered output. These comments are essentially hidden text. The text is viewable by the author of the document, but it's not printed on the webpage or PDF. Markdown doesn't natively support comments, but several enterprising individuals have devised a solution. 
+Some people need the ability to write sentences in their Markdown files that *will not* appear in the 渲染输出. These comments are essentially hidden text. The text is viewable by the author of the document, but it's not printed on the webpage or PDF. Markdown doesn't natively support comments, but several enterprising individuals have devised a solution. 
 
 To add a comment, place text inside brackets followed by a colon, a space, and a pound sign (e.g., `[comment]: #`). You should put blank lines before and after a comment.
 
@@ -99,7 +99,7 @@ Here's a paragraph that will be visible.
 And here's another paragraph that's visible.
 ```
 
-The rendered output looks like this:
+The 渲染输出 looks like this:
 
 Here's a paragraph that will be visible.
 
@@ -125,7 +125,7 @@ However, if you need to add admonitions, you might be able to use [blockquotes](
 > :bulb: **Tip:** Remember to appreciate the little things in life.
 ```
 
-The rendered output looks like this:
+The 渲染输出 looks like this:
 
 > ⚠️ **Warning:** Do not push the big red button.
 
@@ -141,7 +141,7 @@ The Markdown syntax for [images](/basic-syntax/#images-1) doesn't allow you to s
 <img src="image.png" width="200" height="100">
 ```
 
-The rendered output will contain the image resized to the dimensions you specified. 
+The 渲染输出 will contain the image resized to the dimensions you specified. 
 
 ## Image Captions
 
@@ -155,7 +155,7 @@ Markdown doesn't natively support image captions, but there are two possible wor
 </figure>
 ```
 
-The rendered output looks like this:
+The 渲染输出 looks like this:
 
 <figure>
     {% include image.html file="/assets/images/albuquerque.jpg" alt="Albuquerque, New Mexico" lazy="yes" %}
@@ -173,7 +173,7 @@ If your Markdown application doesn't support HTML, you could try placing the cap
 *A single track trail outside of Albuquerque, New Mexico.*
 ```
 
-The rendered output looks like this:
+The 渲染输出 looks like this:
 
 {% include image.html file="/assets/images/albuquerque.jpg" alt="Albuquerque, New Mexico" lazy="yes" %}
 *A single track trail outside of Albuquerque, New Mexico.*
@@ -186,13 +186,13 @@ Some people like creating links that open in new tabs or windows. The Markdown s
 <a href="https://www.markdownguide.org" target="_blank">Learn Markdown!</a>
 ```
 
-The rendered output looks like this:
+The 渲染输出 looks like this:
 
 <a href="https://www.markdownguide.org" target="_blank">Learn Markdown!</a>
 
 ## Symbols
 
-Markdown doesn't provide special syntax for symbols. However, in most cases, you can copy and paste whatever symbol you want to use into your Markdown document. For example, if you need to display Pi (π), just find the symbol on a webpage and copy and paste it into your document. The symbol should appear as expected in the rendered output.
+Markdown doesn't provide special syntax for symbols. However, in most cases, you can copy and paste whatever symbol you want to use into your Markdown document. For example, if you need to display Pi (π), just find the symbol on a webpage and copy and paste it into your document. The symbol should appear as expected in the 渲染输出.
 
 Alternatively, if your Markdown application supports [HTML](/basic-syntax/#html), you can use the HTML entity for whatever symbol you want to use. For example, if you want to display the copyright sign (&copy;), you can copy and paste the HTML entity for copyright (`&copy;`) into your Markdown document.
 
@@ -226,7 +226,7 @@ You can separate paragraphs within a table cell by using one or more `<br>` HTML
 | Paragraph   | First paragraph. <br><br> Second paragraph. |
 ```
 
-The rendered output looks like this:
+The 渲染输出 looks like this:
 
 <table class="table table-bordered">
   <thead>
@@ -258,7 +258,7 @@ You can add a list within a table cell by using HTML tags.
 | List        | Here's a list! <ul><li>Item one.</li><li>Item two.</li></ul> |
 ```
 
-The rendered output looks like this:
+The 渲染输出 looks like this:
 
 <table class="table table-bordered">
   <thead>
@@ -292,7 +292,7 @@ Some Markdown applications like [Markdeep](/tools/markdeep/) can automatically g
 - [Color](#color)
 ```
 
-The rendered output looks like this:
+The 渲染输出 looks like this:
 
 <h4 class="no-anchor" data-toc-skip>Table of Contents</h4>
 
@@ -317,6 +317,6 @@ YouTube automatically generates an image for every video (`https://img.youtube.c
 [![Less Than Jake — Scott Farcas Takes It On The Chin](https://img.youtube.com/vi/PYCxct2e0zI/0.jpg)](https://www.youtube.com/watch?v=PYCxct2e0zI)
 ```
 
-The rendered output looks like this:
+The 渲染输出 looks like this:
 
 <a href="https://www.youtube.com/watch?v=PYCxct2e0zI" rel="nofollow"><img src="https://img.youtube.com/vi/PYCxct2e0zI/0.jpg"></a>

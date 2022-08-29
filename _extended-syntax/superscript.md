@@ -9,7 +9,7 @@ This isn't common, but some Markdown processors allow you to use *superscript* t
 X^2^
 ```
 
-The rendered output looks like this:
+The 渲染输出 looks like this:
 
 X<sup>2</sup>
 

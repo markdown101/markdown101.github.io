@@ -12,7 +12,7 @@ To add a table, use three or more hyphens (`---`) to create each column's header
 | Paragraph   | Text        |
 ```
 
-The rendered output looks like this:
+The 渲染输出 looks like this:
 
 <table class="table table-bordered">
   <thead>
@@ -33,7 +33,7 @@ The rendered output looks like this:
   </tbody>
 </table>
 
-Cell widths can vary, as shown below. The rendered output will look the same.
+Cell widths can vary, as shown below. The 渲染输出 will look the same.
 
 ```
 | Syntax | Description |
@@ -57,7 +57,7 @@ You can align text in the columns to the left, right, or center by adding a colo
 | Paragraph   | Text        | And more      |
 ```
 
-The rendered output looks like this:
+The 渲染输出 looks like this:
 
 <table class="table table-bordered">
   <thead>

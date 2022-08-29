@@ -92,7 +92,7 @@ As an added bonus, MacDown provides support for several obscure elements. These 
     <tr>
       <th>Element</th>
       <th>Markdown</th>
-      <th>Rendered Output</th>
+      <th>渲染输出</th>
     </tr>
   </thead>
   <tbody>

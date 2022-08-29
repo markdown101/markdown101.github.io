@@ -1,7 +1,6 @@
 ---
 title: Escaping Characters
 syntax-id: escaping-characters
-api: "no"
 ---
 
 To display a literal character that would otherwise be used to format text in a Markdown document, add a backslash (`\`) in front of the character.
@@ -10,7 +9,7 @@ To display a literal character that would otherwise be used to format text in a 
 \* Without the backslash, this would be a bullet in an unordered list.
 ```
 
-The rendered output looks like this:
+The 渲染输出 looks like this:
 
 \* Without the backslash, this would be a bullet in an unordered list.
 

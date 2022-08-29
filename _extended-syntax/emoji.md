@@ -23,7 +23,7 @@ Gone camping! :tent: Be back soon.
 That is so funny! :joy:
 ```
 
-The rendered output looks like this:
+The 渲染输出 looks like this:
 
 Gone camping! ⛺ Be back soon.
 

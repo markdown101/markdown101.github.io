@@ -1,38 +1,6 @@
 ---
-title: Unordered Lists
+title: 无序列表
 syntax-id: unordered-lists
-syntax-summary: |
-  - First item
-  - Second item
-  - Third item
-description: "To create an unordered list, add dashes (`-`), asterisks (`*`), or plus signs (`+`) in front of line items. Indent one or more items to create a nested list."
-examples:
-  - markdown: |
-      - First item
-      - Second item
-      - Third item
-      - Fourth item
-    html: <ul><li>First item</li><li>Second item</li><li>Third item</li><li>Fourth item</li></ul>
-  - markdown: |
-      * First item
-      * Second item
-      * Third item
-      * Fourth item
-    html: <ul><li>First item</li><li>Second item</li><li>Third item</li><li>Fourth item</li></ul>
-  - markdown: |
-      + First item
-      * Second item
-      - Third item
-      + Fourth item
-    html: <ul><li>First item</li><li>Second item</li><li>Third item</li><li>Fourth item</li></ul>
-  - markdown: |
-      - First item
-      - Second item
-      - Third item
-          - Indented item
-          - Indented item
-      - Fourth item
-    html: <ul><li>First item</li><li>Second item</li><li>Third item<ul><li>Indented item</li><li>Indented item</li></ul></li><li>Fourth item</li></ul>
 ---
 
 To create an unordered list, add dashes (`-`), asterisks (`*`), or plus signs (`+`) in front of line items. Indent one or more items to create a nested list.
@@ -42,7 +10,7 @@ To create an unordered list, add dashes (`-`), asterisks (`*`), or plus signs (`
     <tr>
       <th>Markdown</th>
       <th>HTML</th>
-      <th>Rendered Output</th>
+      <th>渲染输出</th>
     </tr>
   </thead>
   <tbody>
@@ -182,7 +150,7 @@ If you need to start an unordered list item with a number followed by a period, 
     <tr>
       <th>Markdown</th>
       <th>HTML</th>
-      <th>Rendered Output</th>
+      <th>渲染输出</th>
     </tr>
   </thead>
   <tbody>
