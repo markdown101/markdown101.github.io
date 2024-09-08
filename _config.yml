@@ -27,9 +27,9 @@ defaults:
       layout: tool
 
 # Build settings
-permalink   : /:year/:title/
-markdown    : kramdown
-highlighter : rouge
+permalink: /:year/:title/
+markdown: kramdown
+highlighter: rouge
 
 source: ./
 destination: ./_site
@@ -47,4 +47,13 @@ kramdown:
   auto_ids: true
   toc_levels: 1..3
 
-exclude: ["vendor", "Gemfile", "Gemfile.lock", "README.md", "LICENSE.txt", "Rakefile", "netlify.toml"]
+exclude:
+  [
+    "vendor",
+    "Gemfile",
+    "Gemfile.lock",
+    "README.md",
+    "LICENSE.txt",
+    "Rakefile",
+    "netlify.toml",
+  ]
