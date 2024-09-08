@@ -1,0 +1,65 @@
+---
+title: Home
+---
+<!DOCTYPE html>
+<html lang="en">
+  {% include head.html %}
+  <body>
+    {% include nav.html %}
+
+    <!-- Main jumbotron for a primary marketing message or call to action -->
+    <div class="jumbotron">
+      <div class="container">
+        <img src="/assets/images/markdown-mark-white.svg" alt="Markdown logo">
+        <p>Markdown 101 是一个免费的参考指南，它解释了如何使用 Markdown，这是一种简单易用的标记语言，你可以使用它来格式化几乎任何文档。</p>
+        <p><a class="btn btn-outline-inverse btn-lg" href="/getting-started/" role="button">入门指南</a></p>
+      </div>
+    </div>
+<!--    {% if jekyll.environment == "production" %}<center><div class="horizontal" data-ea-publisher="markdown101" data-ea-type="image"></div></center>{% endif %}-->
+    <div class="container">
+      <div class="md-guide-feature">
+        <h2 class="no-anchor">学习 Markdown 所需的一切。</h2>
+        <p class="lead" style="margin-bottom: 60px">Markdown 使在网络上的写作变得又快又容易。<em>Markdown 101</em> 教你如何使用它。</p>
+        <div class="row">
+          <div class="col-sm-4">
+            <a href="/getting-started/">
+              <div class="icon">
+                <i class="fas fa-edit"></i>
+              </div>
+            </a>
+            <h4 class="no-anchor">初窥门径</h4>
+            <p>按照<a href="/getting-started/">入门指南</a>立即开始使用 Markdown 。它是为所有人设计的，即使是新手。</p>
+          </div>
+          <div class="col-sm-4">
+            <a href="/basic-syntax/">
+              <div class="icon">
+                <i class="fas fa-book-open"></i>
+              </div>
+            </a>
+            <h4 class="no-anchor">登堂入室</h4>
+            <p>无论你是 Markdown 新手还是经验丰富的专业人士，你都可以在<a href="/basic-syntax/">基础语法</a>页面上找到有关格式问题的答案。</p>
+          </div>
+          <div class="col-sm-4">
+            <a href="/extended-syntax/">
+              <div class="icon">
+                <i class="fas fa-code"></i>
+              </div>
+            </a>
+            <h4 class="no-anchor">更上层楼</h4>
+            <p>通过<a href="/extended-syntax/">扩展语法</a>来创建表格、防护代码块、自动链接等，让你的 Markdown 文档变得很棒。</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <hr>
+    <div class="container">
+      <div class="md-guide-feature">
+        <h2 class="no-anchor">了解更多</h2>
+        <p class="lead">立即注册以获取有关 <em>Markdown 101</em> 的优先通知。</p>
+        <br/>
+        <a class="btn btn-default btn-lg" href="https://mailchi.mp/83d1d4363848/signup" style="margin-top: -10px;">保持关注</a>
+      </div>
+    </div>
+    {% include footer.html %}
+  </body>
+</html>

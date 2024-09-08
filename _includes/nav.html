@@ -1,0 +1,25 @@
+<nav class="navbar navbar-expand-lg navbar-dark mdg-nav" style="background-color: #333333">
+<!--<nav class="navbar navbar-expand-lg navbar-dark bg-dark mdg-nav">-->
+  <div class="container">
+    <a class="navbar-brand" href="/" style="margin-top: 2px; margin-bottom: 3px">
+      <img src="/assets/images/markdown-mark-white.svg" height="23" width="47" class="d-inline-block align-top" alt="Markdown Guide" style="margin-top: 4px; padding-right: 10px">
+      Markdown 101
+    </a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNavAltMarkup" style="margin-top: 2px">
+      <div class="navbar-nav">
+        <a class="nav-item nav-link {% if page.title == 'Getting Started' %}active{% endif %}" href="/getting-started/">入门指南</a>
+        <a class="nav-item nav-link {% if page.title == 'Markdown Cheat Sheet' %}active{% endif %}" href="/cheat-sheet/">速查表</a>
+        <a class="nav-item nav-link {% if page.title == 'Basic Syntax' %}active{% endif %}" href="/basic-syntax/">基础语法</a>
+        <a class="nav-item nav-link {% if page.title == 'Extended Syntax' %}active{% endif %}" href="/extended-syntax/">扩展语法</a>
+        <a class="nav-item nav-link {% if page.title == 'Hacks' %}active{% endif %}" href="/hacks/">技巧</a>
+        <a class="nav-item nav-link {% if page.url contains 'tools' %}active{% endif %}" href="/tools/">工具</a>
+      </div>
+    </div>
+    <form class="form-inline d-none d-lg-inline-block mt-2 mt-md-0">
+      <input type="text" class="form-control" id="search-input" placeholder="搜索" style="margin-top:0">
+    </form>
+  </div>
+</nav>

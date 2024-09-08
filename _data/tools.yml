@@ -1,0 +1,114 @@
+# Each tool has YAML front matter describing the tool's properties.
+# The fields are:
+
+headings:
+  name: 标题
+  link: /basic-syntax#headings
+
+paragraphs:
+  name: 段落
+  link: /basic-syntax/#paragraphs-1
+
+line-breaks:
+  name: 换行符
+  link: /basic-syntax/#line-breaks
+
+bold:
+  name: 粗体
+  link: /basic-syntax#bold
+
+italic:
+  name: 斜体
+  link: /basic-syntax#italic
+
+blockquotes:
+  name: 块引用
+  link: /basic-syntax#blockquotes-1
+
+ordered-lists:
+  name: 有序列表
+  link: /basic-syntax#ordered-lists
+
+unordered-lists:
+  name: 无序列表
+  link: /basic-syntax#unordered-lists
+
+code:
+  name: 代码块
+  link: /basic-syntax#code
+
+horizontal-rules:
+  name: 水平分隔符
+  link: /basic-syntax/#horizontal-rules
+
+links:
+  name: 链接
+  link: /basic-syntax/#links
+
+images:
+  name: 图片
+  link: /basic-syntax/#images-1
+
+tables:
+  name: 表格
+  link: /extended-syntax/#tables
+
+fenced-code-blocks:
+  name: 围栏代码块
+  link: /extended-syntax/#fenced-code-blocks
+
+syntax-highlighting:
+  name: 语法高亮
+  link: /extended-syntax/#syntax-highlighting
+
+footnotes:
+  name: 脚注
+  link: /extended-syntax/#footnotes
+
+heading-ids:
+  name: 标题 ID
+  link: /extended-syntax/#heading-ids
+
+definition-lists:
+  name: 定义列表
+  link: /extended-syntax/#definition-lists
+
+strikethrough:
+  name: 删除线
+  link: /extended-syntax/#strikethrough
+
+task-lists:
+  name: 任务列表
+  link: /extended-syntax/#task-lists
+
+emoji-cp:
+  name: Emoji (复制和粘贴)
+  link: /extended-syntax/#copying-and-pasting-emoji
+
+emoji-sc:
+  name: Emoji (简码)
+  link: /extended-syntax/#using-emoji-shortcodes
+
+highlight:
+  name: 强调
+  link: /extended-syntax/#highlight
+
+subscript:
+  name: 下标
+  link: /extended-syntax/#subscript
+
+superscript:
+  name: 上标
+  link: /extended-syntax/#superscript
+
+auto-url-linking:
+  name: Automatic URL Linking
+  link: /extended-syntax/#automatic-url-linking
+
+disabling-auto-url:
+  name: Disabling Automatic URL Linking
+  link: /extended-syntax/#disabling-automatic-url-linking
+
+html:
+  name: HTML
+  link: /basic-syntax/#html

@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://markdown101.github.io/sitemap.xml

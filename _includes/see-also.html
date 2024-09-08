@@ -1,0 +1,11 @@
+{% if page.see-also %}
+
+<h3>另请参阅</h3>
+
+<ul>
+{% for link in page.see-also %}
+<li><a href="{{link.link}}">{{link.name}}</a></li>
+{% endfor %}
+</ul>
+
+{% endif %}
