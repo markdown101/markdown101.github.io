@@ -1,5 +1,5 @@
-# If you have OpenSSL installed, we recommend updating
-# the following line to use "https"
+# frozen_string_literal: true
+
 source 'https://rubygems.org'
 
 group :development do
